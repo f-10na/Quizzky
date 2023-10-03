@@ -1,0 +1,10 @@
+Switzerland,bern
+Ghana,accra
+Gabon,libreville
+Italy,rome
+Egypt,cairo
+China,beijing
+Russia,moscow
+Uganda,kampala
+Angola,luanda
+Belgium,brussels
